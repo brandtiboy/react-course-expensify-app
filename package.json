@@ -5,8 +5,8 @@
   "author": "Frederik Brandt",
   "license": "MIT",
   "engines": {
-    "node": "12.18.2"
- },
+    "node": "11.15.0"
+  },
   "scripts": {
     "serve": "live-server public",
     "build:dev": "webpack",
